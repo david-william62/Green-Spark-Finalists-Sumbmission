@@ -42,12 +42,15 @@ By 4:00 PM, your team must submit:
 
 ## 📂 Recommended Repo Structure
 
-your-project/ │ 
-├── README.md                 ← Project details in this format 
-├── /assets                   ← Screenshots or visual proofs 
-│   └── screenshot.png 
-├── /src                      ← Your project code files 
-└── LICENSE (optional)
+```
+your-project/ 
+  │ 
+  ├── README.md                 ← Project details in this format 
+  ├── /assets                   ← Screenshots or visual proofs 
+  │   └── screenshot.png 
+  ├── /src                      ← Your project code files 
+  └── LICENSE (optional)
+```
 
 ---
 
