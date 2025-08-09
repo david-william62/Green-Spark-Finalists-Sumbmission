@@ -87,6 +87,7 @@ Include a screenshot of your project UI or working demo:
 Additional Notes (Optional)
 
 Any challenges faced, tech stack used, or future plans.
+```
 
 ---
 
@@ -110,7 +111,6 @@ Submissions will be evaluated on:
 - Creativity and real-world impact
 
 ---
-```
 
 Let’s innovate for a better tomorrow.  
 **Make it real. Make it green. Hack for impact.**
