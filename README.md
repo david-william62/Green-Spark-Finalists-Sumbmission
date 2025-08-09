@@ -7,27 +7,27 @@ This is your final assessment to showcase your final working solution under the 
 
 ## 🧠 Problem Statement
 
-"How might we build a fully functional digital solution that enables individuals or communities to actively contribute to a cleaner and more sustainable future?" 
+"How might we build a fully functional digital solution that enables individuals or communities to actively contribute to a cleaner and more sustainable future?"
 
-- Smart Waste Management 
-- Eco-Lifestyle Companion 
-- Eco-Lifestyle Companion 
-- Green Campus Tools 
-- Sustainability Through Gamification 
-- Local Eco Events & Networking 
+- Smart Waste Management
+- Eco-Lifestyle Companion
+- Eco-Lifestyle Companion
+- Green Campus Tools
+- Sustainability Through Gamification
+- Local Eco Events & Networking
 
 ## 🗓️ Timeline
 
 - **Date:** 9th August 2025 (Saturday)  
 - **Time:** 11:00 AM – 4:30 PM IST  
-- **Mode:** Offline 
+- **Mode:** Offline
 - **Team Size:** 2-4 member teams (as per official registration)
 
 ---
 
 ## ✅ What You Need to Submit
 
-By 4:00 PM, your team must submit:
+By 3:00 PM, your team must submit:
 
 - [ ] A **public GitHub repository**
 - [ ] A completed `README.md` using the format below
@@ -35,7 +35,7 @@ By 4:00 PM, your team must submit:
 - [ ] A basic, functional working prototype
 
 - [ ] > 🟢 All submissions must be made through an **Issue** in _this repository_ using the provided issue template.
-      
+
 > 📌 All these are **mandatory** to qualify for evaluation.
 
 ---
@@ -83,8 +83,6 @@ A short explanation of your solution — what it does, how it works, and whom it
 ## Screenshot
 Include a screenshot of your project UI or working demo:
 
-```md
-![Screenshot](./assets/screenshot.png)
 
 Additional Notes (Optional)
 
@@ -113,5 +111,6 @@ Submissions will be evaluated on:
 
 ---
 ```
+
 Let’s innovate for a better tomorrow.  
 **Make it real. Make it green. Hack for impact.**
